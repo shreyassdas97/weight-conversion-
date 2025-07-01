@@ -11,4 +11,4 @@ elif unit == 'k':
 if x < 100 :
     print("normal weight")
 else :
-    print("sanskar mota hai " )
+    print("decrease your weight " )
